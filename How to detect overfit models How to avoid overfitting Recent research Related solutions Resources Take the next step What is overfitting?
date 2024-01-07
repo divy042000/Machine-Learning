@@ -1,0 +1,7 @@
+Overfitting occurs when a machine learning model fits the training data too well, capturing the noise or random fluctuations in the data as concepts. This can lead to the model performing well on the training data but poorly on new, unseen data, impacting its ability to generalize. In other words, overfitting hinders the model's capacity to make accurate predictions for data it has not been trained on, which is essential for its practical utility. It is important to find a balance between underfitting and overfitting to ensure that the model can generalize successfully to new datasets
+1
+2
+3
+.
+The impact of overfitting on the idea of generalization is significant, as it undermines the model's ability to make accurate predictions for new data. A model that is overfitted may perform well on the training data but fail to generalize to new, unseen data, making it less useful in practical applications. Therefore, preventing overfitting is crucial to ensure that machine learning models can effectively generalize and make accurate predictions for data they have not been trained on
+3
